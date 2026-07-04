@@ -1,2 +1,2 @@
 # BBS
-WantWantMilk.github.io/BBS
+https://WantWantMilk.github.io/BBS
